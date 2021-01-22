@@ -1,0 +1,4 @@
+include ':mysql-connector-java'
+include ':mysql-connector-java-8.0.22'
+include ':app'
+rootProject.name = "college_hours_tracker"
